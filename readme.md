@@ -1,3 +1,4 @@
+```
 /blog
 |-- index.php
 |-- novo_post.php
